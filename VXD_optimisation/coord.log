@@ -1,0 +1,631 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.6.24)  2 JUL 2014 11:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**coord.tex
+(./coord.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/koma-script/scrartcl.cls
+Document Class: scrartcl 2013/12/19 v3.12 KOMA-Script document class (article)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2013/12/19 v3.12 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2013/12/19 v3.12 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2013/12/19 v3.12 KOMA-Script package (loading files)
+
+Package scrlfile, 2013/12/19 v3.12 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2013/12/19 v3.12 KOMA-Script package (handling toc-files)
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 115.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 116.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 117.
+Package scrartcl Info: You've used standard option `11pt'.
+(scrartcl)             This is correct!
+(scrartcl)             Internally I'm using `fontsize=11pt'.
+(scrartcl)             If you'd like to set the option with \KOMAoptions,
+(scrartcl)             you'd have to use `fontsize=11pt' there
+(scrartcl)             instead of `11pt', too.
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 1998/08/17 v1.1c Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+)
+Class scrartcl Info: File `scrsize11pt.clo' used to setup font sizes on input l
+ine 1531.
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2013/12/19 v3.12 KOMA-Script font size class option (11pt
+)
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2013/12/19 v3.12 KOMA-Script package (type area)
+
+Package typearea, 2013/12/19 v3.12 KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+\ta@bcor=\skip41
+\ta@div=\count79
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+\footheight=\skip45
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 17.3562pt
+(typearea)              \oddsidemargin  = 17.3562pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1330.
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\c@pti@nb@sid@b@x=\box26
+\c@figure=\count86
+\c@table=\count87
+\bibindent=\dimen103
+) (/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2014/04/23 v3.0j Driver-dependant file (DPC,SPQR)
+))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen106
+\captionmargin@=\dimen107
+\captionwidth=\dimen108
+\caption@tempdima=\dimen109
+\caption@indent=\dimen110
+\caption@parindent=\dimen111
+\caption@hangindent=\dimen112
+)
+Package caption Info: KOMA-Script document class.
+\c@ContinuedFloat=\count89
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count90
+\c@subtable=\count91
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/utilities/pgfutil-common
+.tex
+\pgfutil@everybye=\toks15
+\pgfutil@tempdima=\dimen113
+\pgfutil@tempdimb=\dimen114
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/utilities/pgfutil-common
+-lists.tex))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.
+def
+\pgfutil@abb=\box27
+ (/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.te
+x
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+ (/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/
+afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.
+tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.t
+ex
+\pgfkeys@pathtoks=\toks16
+\pgfkeys@temptoks=\toks17
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltere
+d.code.tex
+\pgfkeys@tmptoks=\toks18
+))
+\pgf@x=\dimen115
+\pgf@y=\dimen116
+\pgf@xa=\dimen117
+\pgf@ya=\dimen118
+\pgf@xb=\dimen119
+\pgf@yb=\dimen120
+\pgf@xc=\dimen121
+\pgf@yc=\dimen122
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count92
+\c@pgf@countb=\count93
+\c@pgf@countc=\count94
+\c@pgf@countd=\count95
+\t@pgf@toka=\toks19
+\t@pgf@tokb=\toks20
+\t@pgf@tokc=\toks21
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdfte
+x.def
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-commo
+n-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpa
+th.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count96
+\pgfsyssoftpath@bigbuffer@items=\count97
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotoc
+ol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.
+tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.te
+x
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.te
+x)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.
+tex
+\pgfmath@dimen=\dimen123
+\pgfmath@count=\count98
+\pgfmath@box=\box28
+\pgfmath@toks=\toks22
+\pgfmath@stack@operand=\toks23
+\pgfmath@stack@operation=\toks24
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.co
+de.tex
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.ba
+sic.code.tex)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.tr
+igonometric.code.tex)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.ra
+ndom.code.tex)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.co
+mparison.code.tex)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.ba
+se.code.tex)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.ro
+und.code.tex)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.mi
+sc.code.tex)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.in
+tegerarithmetics.code.tex)))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.t
+ex
+\c@pgfmathroundto@lastzeros=\count99
+))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints
+.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen124
+\pgf@picmaxx=\dimen125
+\pgf@picminy=\dimen126
+\pgf@picmaxy=\dimen127
+\pgf@pathminx=\dimen128
+\pgf@pathmaxx=\dimen129
+\pgf@pathminy=\dimen130
+\pgf@pathmaxy=\dimen131
+\pgf@xx=\dimen132
+\pgf@xy=\dimen133
+\pgf@yx=\dimen134
+\pgf@yy=\dimen135
+\pgf@zx=\dimen136
+\pgf@zy=\dimen137
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathco
+nstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen138
+\pgf@path@lasty=\dimen139
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathus
+age.code.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen140
+\pgf@shorten@start@additional=\dimen141
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes
+.code.tex
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box29
+\pgf@hbox=\box30
+\pgf@layerbox@main=\box31
+\pgf@picture@serial@count=\count100
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphi
+cstate.code.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen142
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransf
+ormations.code.tex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen143
+\pgf@pt@y=\dimen144
+\pgf@pt@temp=\dimen145
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.
+code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobject
+s.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathpr
+ocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows
+.code.tex
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen146
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.
+code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen147
+\pgf@sys@shading@range@num=\count101
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.
+code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreextern
+al.code.tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box32
+))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers
+.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransp
+arency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatter
+ns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.
+code.tex
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box33
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.co
+de.tex
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-vers
+ion-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen148
+\pgf@nodesepend=\dimen149
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-vers
+ion-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.t
+ex)) (/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/utilities/pgffor.code.te
+x
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+ (/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen150
+\pgffor@skip=\dimen151
+\pgffor@stack=\toks25
+\pgffor@toks=\toks26
+))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.
+code.tex
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/libraries/pgflibraryplot
+handlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count102
+\pgfplotmarksize=\dimen152
+)
+\tikz@lastx=\dimen153
+\tikz@lasty=\dimen154
+\tikz@lastxsaved=\dimen155
+\tikz@lastysaved=\dimen156
+\tikzleveldistance=\dimen157
+\tikzsiblingdistance=\dimen158
+\tikz@figbox=\box34
+\tikz@figbox@bg=\box35
+\tikz@tempbox=\box36
+\tikz@tempbox@bg=\box37
+\tikztreelevel=\count103
+\tikznumberofchildren=\count104
+\tikznumberofcurrentchild=\count105
+\tikz@fig@count=\count106
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.
+code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count107
+\pgfmatrixcurrentcolumn=\count108
+\pgf@matrix@numberofcolumns=\count109
+)
+\tikz@expandcount=\count110
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libra
+ries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+)))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/tikz-3dplot/tikz-3dplot.sty
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libra
+ries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.0 (rcs-revision 1.9)
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libra
+ries/tikzlibrary3d.code.tex
+File: tikzlibrary3d.code.tex 2013/07/17 v3.0.0 (rcs-revision 1.2)
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libra
+ries/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/libraries/pgflibraryarro
+ws.code.tex
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.0 (rcs-revision 1.16)
+\arrowsize=\dimen159
+)))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libra
+ries/tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libra
+ries/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibr
+aryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2008/06/26 v3.0.0 (rcs-revision 1.1)
+))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libra
+ries/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibr
+aryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.0 (rcs-revision 1.5)
+))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libra
+ries/tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibr
+aryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2013/09/11 v3.0.0 (rcs-revision 1.6)
+))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libra
+ries/tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibr
+aryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2008/06/26 v3.0.0 (rcs-revision 1.1)
+))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libra
+ries/tikzlibraryshapes.callouts.code.tex
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibr
+aryshapes.callouts.code.tex))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libra
+ries/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibr
+aryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.0 (rcs-revision 1.2)
+\pgfnodepartlowerbox=\box38
+\pgfnodeparttwobox=\box39
+\pgfnodepartthreebox=\box40
+\pgfnodepartfourbox=\box41
+\pgfnodeparttwentybox=\box42
+\pgfnodepartnineteenbox=\box43
+\pgfnodeparteighteenbox=\box44
+\pgfnodepartseventeenbox=\box45
+\pgfnodepartsixteenbox=\box46
+\pgfnodepartfifteenbox=\box47
+\pgfnodepartfourteenbox=\box48
+\pgfnodepartthirteenbox=\box49
+\pgfnodeparttwelvebox=\box50
+\pgfnodepartelevenbox=\box51
+\pgfnodeparttenbox=\box52
+\pgfnodepartninebox=\box53
+\pgfnodeparteightbox=\box54
+\pgfnodepartsevenbox=\box55
+\pgfnodepartsixbox=\box56
+\pgfnodepartfivebox=\box57
+)))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libra
+ries/tikzlibrarydecorations.pathreplacing.code.tex
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libra
+ries/tikzlibrarydecorations.code.tex
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorat
+ions.code.tex
+\pgfdecoratedcompleteddistance=\dimen160
+\pgfdecoratedremainingdistance=\dimen161
+\pgfdecoratedinputsegmentcompleteddistance=\dimen162
+\pgfdecoratedinputsegmentremainingdistance=\dimen163
+\pgf@decorate@distancetomove=\dimen164
+\pgf@decorate@repeatstate=\count111
+\pgfdecorationsegmentamplitude=\dimen165
+\pgfdecorationsegmentlength=\dimen166
+)
+\tikz@lib@dec@box=\box58
+)
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/libraries/decorations/pg
+flibrarydecorations.pathreplacing.code.tex))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libra
+ries/tikzlibrarysnakes.code.tex
+File: tikzlibrarysnakes.code.tex 2013/07/15 v3.0.0 (rcs-revision 1.7)
+
+
+Package pgf Warning: Snakes have been superseded by decorations. Please use the
+ decoration libraries instead of the snakes library on input line 14.
+
+
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libra
+ries/tikzlibrarydecorations.pathmorphing.code.tex
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/libraries/decorations/pg
+flibrarydecorations.pathmorphing.code.tex))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libra
+ries/tikzlibrarydecorations.shapes.code.tex
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/generic/pgf/libraries/decorations/pg
+flibrarydecorations.shapes.code.tex)))
+(/afs/cern.ch/sw/XML/TL2014/texmf-dist/tex/latex/lcd/lcd.sty
+Package: lcd 2004/01/05 v0.3 drawing alphanumerical LCDisplays
+\LCDunitlength=\skip48
+\c@@LCDdotx=\count112
+\c@@LCDdoty=\count113
+\c@@LCDchrx=\count114
+\c@@LCDlines=\count115
+\c@@LCDlower=\count116
+)
+
+! LaTeX Error: File `lcd_title.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: x
+
+ )
+(\end occurred when \ifx on line 25 was incomplete)
+(\end occurred when \ifx on line 25 was incomplete) 
+Here is how much of TeX's memory you used:
+ 16737 strings out of 493117
+ 365333 string characters out of 6134107
+ 459414 words of memory out of 5000000
+ 19929 multiletter control sequences out of 15000+600000
+ 4709 words of font info for 16 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 64i,1n,75p,458b,79s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+No pages of output.
+PDF statistics:
+ 3 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

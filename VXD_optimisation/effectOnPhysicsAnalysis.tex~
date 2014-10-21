@@ -1,0 +1,44 @@
+\section{Effect of the flavour-tagging performance on the H$\nu \bar{\nu}$ analysis}\label{sec:impactOfMaterialBudget}
+
+Flavour tagging is a key ingredient for the measurement of the Higgs boson decay to b\={b} and c\={c} quark pairs. The Standard Model predicts that the production of the 125~GeV Higgs boson is dominated by the process: e$^+$e$^- \rightarrow$ H$\nu \bar{\nu}$ at 3~TeV. A study of this process is described in \cite{Lastovicka:1499128} for the default geometry of the CLIC\_SiD detector. \\
+As shown in the previous sections, changes to the layout and material budget of the vertex detector can lead to changes in the fake rates of typically $\pm 20 \%$. We illustrate the effect of this variation of the fake rates on the precision of the H$\rightarrow$b\={b} and H$\rightarrow$c\={c} measurements described in \cite{Lastovicka:1499128}. \\
+First, we assume that:
+\begin{itemize}
+\item for H$\rightarrow$b\={b}, the backgrounds do not contain b-jets (they are mostly light jets);
+\item for H$\rightarrow$c\={c}, the backgrounds do not contain c-jets (they are mostly beauty and light quark jets);
+\item the flavour tags are fully uncorrelated with the other selection variables. 
+\end{itemize}
+
+Table \ref{tab:HBBCC} gives the numbers of events for the decays of the Higgs to b\={b} and c\={c} quark pairs after the selection performed in the analysis described in \cite{Lastovicka:1499128}.
+\begin{table}[H]
+  \begin{center}
+    \begin{tabular}{c c c}
+      \hline
+      & H$\rightarrow$b\={b} & H$\rightarrow$c\={c} \\ \hline\hline
+      Signal events & $282 \times 10^3$ & $660 \times 10^1$ \\
+      Background events & $130 \times 10^3$ & $350 \times 10^2$ \\
+      %% Statistical uncertainty & 0.23\% & 3.1\% \\
+      \hline
+    \end{tabular}
+  \end{center}
+  \caption{Number of signal and background events after selection for H$\rightarrow$b\={b} and H$\rightarrow$c\={c} decays. From~\cite{Lastovicka:1499128}.}\label{tab:HBBCC}
+\end{table}
+
+If the fake rates increase or decrease by 20\%, the number of background events scales by $1.2^{2}$ and $0.8^{2}$, respectively. \\
+We are interested in the precisions on $\sigma($e$^+$e$^-\rightarrow$ H$\nu \bar{\nu}) \times $BR(H$\rightarrow$b\={b},~H$\rightarrow$c\={c}), where $\sigma$ is the cross section and BR the branching ratio. This precision is given by the inverse of the significance which is defined as: $S/\sqrt{S+B}$. S and B are the number of signal and background events, respectively. \\
+Table \ref{tab:statsUncertainties} gives the uncertainties for the default case from~\cite{Lastovicka:1499128} and the resulting numbers when the fake rates are increased or decreased by 20\%. By comparing the results, the impact of fake rates on H$\rightarrow$c\={c} is higher than H$\rightarrow$b\={b}. This can be explained by the fact that the purity for the H$\rightarrow$c\={c} selection is much smaller. \\
+In conclusion, a 20\% change in the fake rate for light jets leads to a 6-7\% effect on the precision for H$\rightarrow$b\={b}. A change of 20\% in the light quark and beauty fake rates leads to a 15\% change on the precision of H$\rightarrow$c\={c}.
+
+\begin{table}[H]
+  \begin{center}
+    \begin{tabular}{c c c}
+      \hline
+      Precisions on: & $\sigma($e$^+$e$^- \rightarrow$ H$\nu \bar{\nu}) \times $BR(H$\rightarrow$b\={b}) & $\sigma($e$^+$e$^- \rightarrow$ H$\nu \bar{\nu}) \times $BR(H$\rightarrow$c\={c}) \\ \hline\hline
+      Default & 0.23\% & 3.1\% \\
+      20\% increased fake rates & 0.24\% & 3.6\% \\
+      20\% decreased fake rates & 0.21\% & 2.6\%\\
+      \hline
+    \end{tabular}
+  \end{center}
+  \caption{Uncertainties for the default case (from~\cite{Lastovicka:1499128}) and for the cases considering 20\% increased and decreased fake rates. }\label{tab:statsUncertainties}
+\end{table}

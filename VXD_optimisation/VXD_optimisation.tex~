@@ -1,0 +1,138 @@
+%============================================%
+% Official template for CLICdp notes.
+%
+% Updated: 22.06.2014
+% Christian Grefe (christian.grefe@cern.ch)
+%============================================%
+
+\documentclass[11pt,a4paper]{scrartcl}
+
+% Defines default style and includes several useful packages
+\usepackage{CLICdp}
+
+% Useful macros for writing CLICdp notes
+\usepackage{CLICdp_definitions}
+
+% Add your packages here
+%\usepackage{MyPackage}
+\usepackage[T1]{fontenc} %nilou
+\usepackage[usenames,dvipsnames]{xcolor} %nilou
+\usepackage{graphicx}
+\usepackage{caption} %nilou
+\usepackage{subcaption} %nilou
+\usepackage{tikz,tikz-3dplot} %nilou
+\usetikzlibrary{shapes,arrows, decorations.pathreplacing, snakes} %nilou
+\usepackage{float} %nilou
+\usepackage{siunitx}%nilou
+
+%\RequirePackage{lineno} %Nilou%lineNumber
+%============================================%
+% Set up the title page
+%============================================%
+
+% Set the title of the note
+\title{\begin{center}Optimisation Studies for the \\
+CLIC Vertex-Detector Geometry \end{center}}
+
+% Set the CLICdp note number
+\clicdpnote{2014}{002}  % public notes
+%\clicdppub{2014}{001}  % journal articles
+%\clicdpconf{2014}{001}  % conference proceedings
+%\clicdpdraft{2014}{001}  % draft versions for circulation 
+
+% Set the publication date
+\date{\today}
+%\date{\formatdate{18}{6}{2014}}
+
+% Define the authors and their institutes, they will appear exactly in the order as they are added
+% Footnotes can be added using the \thanks command
+\addauthor{Niloufar Alipour Tehrani}{\institute{1}\institute{2}}
+\addauthor{Philipp Roloff}{\institute{1}}
+
+\addinstitute{1}{CERN, Switzerland}
+\addinstitute{2}{ETH Z\"{u}rich, Switzerland}
+
+% Add "On behalf of ... (optional)"
+\onbehalfof{the CLICdp collaboration}
+
+% Define an abstract for the note 
+\abstract{An improved CLIC detector model is under study. This note focuses on the geometry of its vertex detector. Different options fulfilling engineering requirements for the barrel detector and alternative layouts of the endcap regions are considered. The impact of different vertex-detector layouts and of the material budget on the beauty and charm tagging performances for various jet energies and polar angles is being investigated. The study is based on a full detector simulation using \textsc{Geant4}.}
+
+% Add comments to the title page (optional)
+%\titlecomment{Talk presented at CONFERENCE, PLACE, COUNTRY, 16--19 June 2014}
+%\titlecomment{This work was carried out in the framework of the CLICdp collaboration}
+
+% Uncomment this line to remove the stamp with the CLICdp note number from the top right corner
+% of the title page
+%\notitlestamp
+
+
+%============================================%
+% Bibliography
+%============================================%
+
+% define the list of bibliography data files
+%\addbibresource{./examples/bibliography.bib}
+\addbibresource{./bibliography/lcd.bib}
+
+
+%============================================%
+% Search path for images
+%============================================%
+
+\graphicspath{ {./logos/}{./figures/} }
+
+
+%============================================%
+% Options
+%============================================%
+
+% Uncomment this line for a draft version. Adds a watermark and a timestamp
+%\draftdocument
+
+% Uncomment this line to change all link colours to black
+%\nocolourlinks
+
+
+%============================================%
+% Start of the actual document
+%============================================%
+
+\begin{document}
+%\linenumbers%Nilou%lineNumber      
+% generates the title page
+\titlepage
+
+% include source for sections
+%\input{./include/MySection.tex}
+
+\tableofcontents 
+\newpage
+%
+\input{Introduction}
+%
+\input{Framework}
+%
+\input{Geometries}
+%
+\input{TrackingPerformance}
+%
+\newpage
+\input{ImpactOfGeometries}
+%
+%%%%%%%%%\include{ImpactOfMaterialBudget}
+%
+\input{effectOnPhysicsAnalysis}
+%
+\input{Conclusions}
+%
+\section{Acknowledgements}
+The authors would like to thank Dominik Dannheim, Konrad Elsener and Aharon Levy for their instructive comments on the note. In addition, the authors would like to thank Christian Grefe for very helpful discussions on the SiD detector simulation and track reconstruction software.
+\newpage
+\input{Appendix}
+
+\newpage
+% add references
+\printbibliography[title=References]
+
+\end{document}

@@ -1,0 +1,1304 @@
+% This file was created with JabRef 2.5.
+% Encoding: ASCII
+
+% Nilou
+%------------------------------------------------------
+
+@InProceedings{ilcdirac,
+  author =      {Grefe, Christian and Poss, St{\e}phane and Sailer,
+Andr{\'e} and Tsaregorodtsev, Andrei},
+  title =      {{ILCDIRAC}, a {DIRAC} extension for the Linear Collider
+community},
+  booktitle = {20th International Conference on Computing in High Energy
+and Nuclear Physics (CHEP 2013)},
+  year =      2013,
+  address =      {Amsterdam, the Netherlands},
+  journal        = "J.Phys.Conf.Ser.",
+  volume         = "513",
+  pages          = "032077",
+  doi            = "10.1088/1742-6596/513/3/032077",
+  year           = "2014",
+ note = "CLICdp-Conf-2013-003"
+}
+@masterthesis{AlipourTehrani:1606436,
+      author        = "Alipour Tehrani, Niloufar and Frossard, Pascal and Roloff,
+                       Philipp",
+      title         = "{Performance-Optimization Studies for the CLIC Vertex
+                       Detector}",
+      school        = "EPFL, Lausanne",
+      month         = "Aug",
+      year          = "2013",
+}
+@article{Catani:1991hj,
+      author         = "Catani, S. and Dokshitzer, Yuri L. and Olsson, M. and
+                        Turnock, G. and Webber, B.R.",
+      title          = "{New clustering algorithm for multi - jet cross-sections
+                        in e+ e- annihilation}",
+      journal        = "Phys.Lett.",
+      volume         = "B269",
+      pages          = "432-438",
+      doi            = "10.1016/0370-2693(91)90196-W",
+      year           = "1991",
+      reportNumber   = "CAVENDISH-HEP-91-5",
+      SLACcitation   = "%%CITATION = PHLTA,B269,432;%%",
+}
+
+@article{Thomson:2009rp,
+      author         = "Thomson, M.A.",
+      title          = "{Particle Flow Calorimetry and the PandoraPFA Algorithm}",
+      journal        = "Nucl.Instrum.Meth.",
+      volume         = "A611",
+      pages          = "25-40",
+      doi            = "10.1016/j.nima.2009.09.009",
+      year           = "2009",
+      eprint         = "0907.3577",
+      archivePrefix  = "arXiv",
+      primaryClass   = "physics.ins-det",
+      reportNumber   = "CU-HEP-09-11",
+      SLACcitation   = "%%CITATION = ARXIV:0907.3577;%%",
+}
+
+@article{Marshall:2012ry,
+      author         = "Marshall, J.S. and Münnich, A. and Thomson, M.A.",
+      title          = "{Performance of Particle Flow Calorimetry at CLIC}",
+      journal        = "Nucl.Instrum.Meth.",
+      volume         = "A700",
+      pages          = "153-162",
+      doi            = "10.1016/j.nima.2012.10.038",
+      year           = "2013",
+      eprint         = "1209.4039",
+      archivePrefix  = "arXiv",
+      primaryClass   = "physics.ins-det",
+      reportNumber   = "CU-HEP-12-12",
+      SLACcitation   = "%%CITATION = ARXIV:1209.4039;%%",
+}
+
+@Article{Graf:2006ei,
+     author    = "Graf, N. and McCormick, J.",
+     title     = "{Simulator for the linear collider (SLIC): A tool for ILC
+                  detector simulations}",
+     journal   = "AIP Conf. Proc.",
+     volume    = "867",
+     year      = "2006",
+     pages     = "503-512",
+     doi       = "10.1063/1.2396991",
+     SLACcitation  = "%%CITATION = APCPC,867,503;%%"
+}
+
+
+@misc{Muennich:1443543,
+      author        = "Muennich, A and Sailer, A",
+      title         = "{The CLIC ILD CDR Geometry for the CDR Monte Carlo Mass
+                       Production}",
+      month         = "Mar",
+      year          = "2012",
+ howpublished = {LCD-Note-2011-002},
+}
+
+
+@book{CLICCDR2012,
+title         = {{Physics and Detectors at CLIC: CLIC Conceptual Design Report}},
+year          = {2012},
+editor        = {L. Linssen and A. Miyamoto and M. Stanitzki and H. Weerts},
+publisher     = {{CERN}},
+note          = {{ANL-HEP-TR-12-01, CERN-2012-003,  DESY 12-008,
+                  KEK Report 2011-7}, \href{http://arxiv.org/abs/1202.5940}{arXiv:1202.5940}}
+}
+@misc{Grefe2011,
+  author = 	 {C. Grefe AND A. M\"unnich},
+  title = 	 "{The CLIC\_SiD\_CDR Geometry for the CDR Monte Carlo Mass Production}",
+  howpublished = {LCD-Note-2011-009},
+  institution = {CERN},
+  series = {LCD-Note},
+  year = 	 2011
+}
+@article{LCWS2012Cooling,
+    author  = "F. Duarte Ramos",
+    title   = "{CLIC inner detector cooling and mechanics}",
+    year    = "2012",
+    journal = "{LCWS12} {I}nternational {W}orkshop on {F}uture {L}inear {C}olliders",
+}
+@misc{website:LCFIPlus,
+author = "T. Tanabe and T. Suehara",
+      title = "{LCFIP}lus",
+      month = "June",
+      year = "2013",
+      howpublished = "\url{https://confluence.slac.stanford.edu/display/ilc/LCFIPlus}"
+}
+@misc{Lastovicka:1499128,
+      author       = "Lastovicka, T.",
+      title        = " {Light Higgs Production and Decays to Pairs of Bottom and
+                      Charm Quarks at 3 TeV}",
+      month        = "Sep",
+      year         = "2012",
+howpublished = {LCD-Note-2011-036},
+}
+@misc{CoolingSimulations,
+    author  = "F. Duarte Ramos and H. Gerwig and M. Villarejo Bermudez",
+    title   = "{CLIC} inner detectors cooling simulations",
+    year    = "2013",
+    howpublished = {LCD-Note-2013-007},
+}
+@misc{website:TMVA,
+      title = "{TMVA}",
+      month = "September",
+      year = "2013",
+      howpublished = "\url{http://tmva.sourceforge.net/}"
+}
+@MISC{GeomConverter-homepage,
+  title = {{GeomConverter}},
+  howpublished = {Website: \url{http://lcsim.org/software/GeomConverter/}}
+}
+@MISC{lcsim-homepage,
+  title = {{Linear Collider Simulations (LCSim)}},
+  howpublished = {Website: \url{http://lcsim.org/}}
+}
+@article{Agostinelli2003250,
+title = "Geant4-a simulation toolkit ",
+journal = "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment ",
+volume = "506",
+number = "3",
+pages = "250 - 303",
+year = "2003",
+note = "",
+issn = "0168-9002",
+doi = "http://dx.doi.org/10.1016/S0168-9002(03)01368-8",
+url = "http://www.sciencedirect.com/science/article/pii/S0168900203013688",
+author = "S. Agostinelli et al.",
+keywords = "Simulation",
+keywords = "Particle interactions",
+keywords = "Geometrical modelling",
+keywords = "Software engineering",
+keywords = "Object-oriented technology",
+keywords = "Distributed software development "
+}
+@MISC{detector-description,
+  title = {{Linear Collider Detector Descriptions}},
+  howpublished = {Website: \url{http://www.lcsim.org/detectors/}}
+}
+@misc{marlin,
+    title        = {Marlin, {Modular Analysis \& Reconstruction for the LINear collider}},
+    howpublished = {Website: \url{http://ilcsoft.desy.de/portal/software_packages/marlin/}}
+}
+@misc{website:LCIO,
+      author = "F. Gaede",
+      title = "LCIO",
+      month = "August",
+      year = "2012",
+      howpublished = "\url{http://lcio.desy.de/}"
+}
+@misc{website:DIRAC,
+      title = "{DIRAC}",
+      howpublished = "\url{http://diracgrid.org/}"
+}
+@techreport{Blanchot:1635206,
+      author        = "Blanchot, G and Dannheim, D and Fuentes, C",
+      title         = "{Power-pulsing schemes for vertex detectors at CLIC}",
+      institution   = "CERN",
+      address       = "Geneva",
+      number        = "CLICdp-Conf-2013-005",
+      month         = "Nov",
+      year          = "2013",
+}
+@article{Bailey2009573,
+title = "The LCFIVertex package: Vertexing, flavour tagging and vertex charge reconstruction with an ILC vertex detector",
+journal = "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment",
+volume = "610",
+number = "2",
+pages = "573 - 589",
+year = "2009",
+note = "",
+issn = "0168-9002",
+doi = "10.1016/j.nima.2009.08.059",
+url = "http://www.sciencedirect.com/science/article/pii/S0168900209016660",
+author = "D. Bailey et al.",
+keywords = "Simulation",
+keywords = "Reconstruction",
+keywords = "Monte Carlo",
+keywords = "Software tools",
+keywords = "Vertex detectors",
+keywords = "Linear collider"
+}
+@misc{SiDAihara:2009ad,
+      author         = "Aihara, H. and Burrows, P. and Oreglia, M.
+                        and Berger, E.L. and Guarino, V. and others",
+      title          = "{SiD Letter of Intent}",
+      year           = "2009",
+      howpublished  = "arXiv:~0911.0006~[physics.ins-det]",
+      series         = "FERMILAB-LOI-2009-01",
+}
+%------------------------------------------------------
+
+@ARTICLE{Adragna2006,
+  author = {Adragna, P and Alexa, C and Anderson, K and Antonaki, A and Batusov,
+	V and Bednar, P and Binet, S and Biscarat, C and Blanchot, G and
+	Bogush, A A and Boehm, C and Boldea, V and Bosman, M and Bromberg,
+	C and Budagov, Yu A and Caloba, L and Calvet, D and Carvalho, J and
+	Castelo, J and Castillo, M V and Sforza, M C and Cavasinni, V and
+	Cerqueira, A S and Chadelas, R and Costanzo, D and Cogswell, F and
+	Constantinescu, S and Crouau, M and Cuenca, C and Damazio, D O and
+	Daudon, F and David, M and Davidek, T and De, K and Del Prete, T
+	and Di Girolamo, B and Dita, S and Dolejsi, J and Dolezal, Z and
+	Dotti, A and Downing, R and Efthymiopoulos, I and Errede, D and Errede,
+	S and Farbin, A and Fassouliotis, D and Fedorko, I and Fenyuk, A
+	and Ferdi, C and Ferrer, A and Flaminio, V and Fullana, E and Garde,
+	V and Giakoumopoulou, V and Gildemeister, O and Gilewsky, V and Giangiobbe,
+	V and Giokaris, N and Gomes, A and Gonzalez, V and Grabskii, V and
+	Grenier, P and Gris, P and Guarino, V and Guicheney, C and Sen-Gupta,
+	A and Hakobyan, H and Haney, M and Henriques, A and Higon, E and
+	Holmgren, S O and Hurwitz, M and Huston, J and Iglesias, C and And,
+	K J and Junk, T and Karyukhin, A N and Khubua, J and Klereborn, J
+	and Korolkov, I Ya and Krivkova, P and Kulchitskii, Yu A and Kurochkin,
+	Yu and Kuzhir, P and Lambert, D and Le Compte, T and Lefevre, R and
+	Leitner, R and Lembesi, M and Li, J and Liablin, M and Lokajicek,
+	M and Lomakin, Y and Amengual, J M L and Lupi, A and Maidantchik,
+	C and Maio, A and Maliukov, S and Manousakis, A and Marques, C and
+	Marroquim, F and Martin, F and Mazzoni, E and Montarou, G and Merritt,
+	F S and Myagkov, A and Miller, R and Minashvili, I A and Miralles,
+	L and Nemecek, S and Nessi, M and Nodulman, L and Norniella, O and
+	Onofre, A and Oreglia, M J and Pantea, D and Pallin, D and Pilcher,
+	J E and Pina, J and Pinhaeo, J and Podlyski, F and Portell, X and
+	Poveda, J and Price, L E and Pribyl, L and Proudfoot, J and Ramstedt,
+	M and Reinmuth, G and Richards, R and Roda, C and Romanov, V and
+	Rosnet, P and Roy, P and Rumiantsau, V and Russakovich, N and Salto,
+	O and Salvachua, B and Sanchis, E and Sanders, H and Santoni, C and
+	Santos, J and Saraiva, J G and Sarri, F and Satsunkevich, I S and
+	Says, L P and Schlager, G and Schlereth, J L and Seixas, J M and
+	Sellden, B and Shevtsov, P and Shochet, M and Da Silva, P and Silva,
+	J and Simaitis, V and Sissakian, A N and Solodkov, A and Solovyanov,
+	O and Sosebee, M and Spano, F and Stanek, R and Starchenko, E A and
+	Starovoitov, P and Suk, M and Sykora, I and Tang, F and Tas, P and
+	Teuscher, R and Tokar, S and Topilin, N and Torres, J and Tsulaia,
+	V and Underwood, D and Usai, G and Valkar, S and Valls, J A and Vartapetian,
+	A H and Vazeille, F and Vichou, I and Vinogradov, V and Vivarelli,
+	I and Volpi, M and White, A and Zaitsev, A and Zenine, A and Zenis,
+	T},
+  title = {The {ATLAS} hadronic tile calorimeter from construction toward physics},
+  journal = {IEEE T. Nucl. Sci.},
+  year = {2006},
+  volume = {53},
+  pages = {1275-81},
+  owner = {Peter},
+  timestamp = {2008.03.24}
+}
+
+@ARTICLE{Agostinelli2003,
+  author = {Agostinelli, S. and others},
+  title = {Geant4 -- a simulation toolkit},
+  journal = {Nucl. Instrum. Methods Phys. Res., Sect. A},
+  year = {2003},
+  volume = {506},
+  pages = {250--303},
+  number = {3},
+  month = jul,
+  keywords = {Simulation, Particle interactions, Geometrical modelling, Software
+	engineering, Object-oriented technology, Distributed software development},
+  owner = {Peter},
+  timestamp = {2007.03.26},
+  url = {http://www.sciencedirect.com/science/article/B6TJM-48TJFY8-5/2/23ea98096ce11c1be446850c04cfa498}
+}
+
+@ARTICLE{Akchurin1998,
+  author = {Akchurin, N. and others},
+  title = {On the differences between high-energy proton and pion showers and
+	their signals in a non-compensating calorimeter},
+  journal = {Nucl. Instrum. Methods Phys. Res., Sect. A},
+  year = {1998},
+  volume = {A408},
+  pages = {380-396},
+  doi = {10.1016/S0168-9002(98)00021-7},
+  owner = {Peter},
+  slaccitation = {%%CITATION = NUIMA,A408,380;%%},
+  timestamp = {2007.11.11}
+}
+
+@TECHREPORT{Aleksa2006,
+  author = {Aleksa, Martin and Delmastro, M and Fanti, M and Lafaye, R and Lampl,
+	W and Laplace, S and Prieur, D and Tarrade, F and Wingerter-Seez,
+	I},
+  title = {{ATLAS Combined Testbeam: Computation and Validation of the Electronic
+	Calibration Constants for the Electromagnetic Calorimeter}},
+  institution = {CERN},
+  year = {2006},
+  number = {ATL-COM-LARG-2006-003},
+  address = {Geneva},
+  month = {Apr},
+  owner = {speckmay},
+  timestamp = {2007.07.23},
+  url = {http://doc.cern.ch//archive/electronic/cern/others/atlnot/PUB/larg/larg-pub-2006-003.pdf}
+}
+
+@ARTICLE{ALICE2004,
+  author = {{ALICE Collaboration}},
+  title = {{ALICE: Physics Performance Report, Volume I}},
+  journal = {J. Phys. G: Nucl. Part. Phys.},
+  year = {2004},
+  volume = {30},
+  pages = {1517-1763},
+  number = {11},
+  abstract = {ALICE is a general-purpose heavy-ion experiment designed to study
+	the physics of strongly interacting matter and the quark-gluon plasma
+	in nucleus-nucleus collisions at the LHC. It currently includes more
+	than 900 physicists and senior engineers, from both nuclear and high-energy
+	physics, from about 80 institutions in 28 countries.The experiment
+	was approved in February 1997. The detailed design of the different
+	detector systems has been laid down in a number of Technical Design
+	Reports issued between mid-1998 and the end of 2001 and construction
+	has started for most detectors.Since the last comprehensive information
+	on detector and physics performance was published in the ALICE Technical
+	Proposal in 1996, the detector as well as simulation, reconstruction
+	and analysis software have undergone significant development. The
+	Physics Performance Report (PPR) will give an updated and comprehensive
+	summary of the current status and performance of the various ALICE
+	subsystems, including updates to the Technical Design Reports, where
+	appropriate, as well as a description of systems which have not been
+	published in a Technical Design Report.The PPR will be published
+	in two volumes. The current Volume I contains: a short theoretical
+	overview and an extensive reference list concerning the physics topics
+	of interest to ALICE, relevant experimental conditions at the LHC,
+	a short summary and update of the subsystem designs, and a description
+	of the offline framework and Monte Carlo generators. Volume II, which
+	will be published separately, will contain detailed simulations of
+	combined detector performance, event reconstruction, and analysis
+	of a representative sample of relevant physics observables from global
+	event characteristics to hard processes.},
+  url = {http://stacks.iop.org/0954-3899/30/1517}
+}
+
+@ARTICLE{Allison2006,
+  author = {Allison, J. and others},
+  title = {Geant4 developments and applications},
+  journal = {IEEE T. Nucl. Sci.},
+  year = {2006},
+  volume = {53},
+  pages = {270--278},
+  number = {1},
+  month = {Feb.},
+  doi = {10.1109/TNS.2006.869826},
+  owner = {Peter},
+  timestamp = {2007.03.22}
+}
+
+@ARTICLE{Amoruso2004,
+  author = {Amoruso, S. and Antonello, M. and Aprili, P. and Arneodo, F. and
+	Badertscher, A. and Baiboussinov, B. and Baldo Ceolin, M. and Battistoni,
+	G. and Bekman, B. and Benetti, P. and Bischofberger, M. and Borio
+	di Tigliole, A. and Brunetti, R. and Bruzzese, R. and Bueno, A. and
+	Buzzanca, M. and Calligarich, E. and Campanelli, M. and Carbonara,
+	F. and Carpanese, C. and Cavalli, D. and Cavanna, F. and Cennini,
+	P. and Centro, S. and Cesana, A. and Chen, C. and Chen, D. and Chen,
+	D. B. and Chen, Y. and Cieslik, K. and Cline, D. and Cocco, A. G.
+	and Dai, Z. and De Vecchi, C. and Dabrowska, A. and Di Cicco, A.
+	and Dolfini, R. and Ereditato, A. and Felcini, M. and Ferrari, A.
+	and Ferri, F. and Fiorillo, G. and Galli, S. and Ge, Y. and Gibin,
+	D. and Gigli Berzolari, A. and Gil-Botella, I. and Graczyk, K. and
+	Grandi, L. and Guglielmi, A. and He, K. and Holeczek, J. and Huang,
+	X. and Juszczak, C. and Kielczewska, D. and Kisiel, J. and Kozlowski,
+	T. and Laffranchi, M. and Lagoda, J. and Li, Z. and Lu, F. and Ma,
+	J. and Mangano, G. and Markiewicz, M. and Martinez de la Ossa, A.
+	and Matthey, C. and Mauri, F. and Meng, G. and Messina, M. and Montanari,
+	C. and Muraro, S. and Navas-Concha, S. and Otwinowski, S. and Ouyang,
+	Q. and Palamara, O. and Pascoli, D. and Periale, L. and Piano Mortari,
+	G. B. and Piazzoli, A. and Picchi, P. and Pietropaolo, F. and Polchlopek,
+	W. and Rancati, T. and Rappoldi, A. and Raselli, G. L. and Rico,
+	J. and Rondio, E. and Rossella, M. and Rubbia, A. and Rubbia, C.
+	and Sala, P. R. and Santorelli, R. and Scannicchio, D. and Segreto,
+	E. and Seo, Y. and Sergiampietri, F. and Sobczyk, J. and Spinelli,
+	N. and Stepaniak, J. and Sulej, R. and Szarska, M. and Szeptycka,
+	M. and Terrani, M. and Velotta, R. and Ventura, S. and Vignoli, C.
+	and Wang, H. and Wang, X. and Woo, J. and Xu, G. and Xu, Z. and Zalewska,
+	A. and Zhang, C. and Zhang, Q. and Zhen, S. and Zipper, W.},
+  title = {Study of electron recombination in liquid argon with the {ICARUS
+	TPC}},
+  journal = {Nucl. Instrum. Methods Phys. Res., Sect. A},
+  year = {2004},
+  volume = {523},
+  pages = {275--286},
+  number = {3},
+  month = may,
+  abstract = {Electron recombination in liquid argon (LAr) is studied by means of
+	charged particle tracks collected in various ICARUS liquid argon
+	TPC prototypes. The dependence of the recombination on the particle
+	stopping power has been fitted with a Birks functional dependence.
+	The simulation of the process of electron recombination in Monte
+	Carlo calculations is discussed. A quantitative comparison with previously
+	published data is carried out.},
+  keywords = {Liquid argon, Electron recombination, TPC},
+  owner = {speckmay},
+  timestamp = {2008.02.21},
+  url = {http://www.sciencedirect.com/science/article/B6TJM-4BMBDH7-H/2/8cbf1fb7608dcf115fd78dc650c24a8a}
+}
+
+@BOOK{ATLAS1994,
+  title = {{ATLAS Technical proposal for a general-purpose pp experiment at
+	the Large Hadron Collider at CERN}},
+  publisher = {CERN},
+  year = {1994},
+  author = {{ATLAS Collaboration}},
+  series = {LHC Tech. Proposal},
+  address = {Geneva},
+  owner = {Peter},
+  timestamp = {2008.03.23}
+}
+
+@ARTICLE{Bertini1963,
+  author = {Bertini, Hugo W.},
+  title = {Low-Energy Intranuclear Cascade Calculation},
+  journal = {Phys. Rev.},
+  year = {1963},
+  volume = {131},
+  pages = {1801--1821},
+  number = {4},
+  month = {Aug},
+  doi = {10.1103/PhysRev.131.1801},
+  numpages = {20},
+  owner = {speckmay},
+  publisher = {American Physical Society},
+  timestamp = {2008.04.16}
+}
+
+@BOOK{MC2002,
+  title = {{Monte Carlo Simulation in Statistical Physics: An Introduction}},
+  publisher = {Springer Verlag},
+  year = {2002},
+  author = {Binder, K. and Heermann, D.W.},
+  owner = {Peter},
+  timestamp = {2008.04.13},
+  url = {http://www.amazon.de/gp/reader/3540432213?ie=UTF8&p=S00H&checkSum=wkNdVTAWeHyY5NeXcCR4Hn7gnFzqOAlgqQz%2BAwKQOAo%3D#reader-page}
+}
+
+@ARTICLE{Bock1981,
+  author = {Bock, R. K. and Hansl-Kozanecka, T. and Shah, T. P.},
+  title = {Parametrization of the longitudinal development of hadronic showers
+	in sampling calorimeters},
+  journal = {Nucl. Instrum. Methods},
+  year = {1981},
+  volume = {186},
+  pages = {533--539},
+  number = {3},
+  month = jul,
+  abstract = {A parametrization of the longitudinal development of hadronic showers
+	in calorimeters is presented; this is being used for simulation of
+	showers in the experiment UA1. These calorimeters cover almost 4[pi]
+	solid angle, and consist of stacked electromagnetic (lead) and hadronic
+	(iron) sandwiches. We have used published data of fine granularity
+	together with new test data obtained for our calorimeter prototypes
+	in order to extract the longitudinal shower shape in lead and iron.
+	A satisfactory parametrization for the average longitudinal development
+	of the showers is obtained. An example for fluctuating about this
+	mean is also given for coarsely integrated read-out.},
+  owner = {speckmay},
+  timestamp = {2008.02.15},
+  url = {http://www.sciencedirect.com/science/article/B73DN-470NXM5-4CP/2/acd5484ea37714fcf31ca8a6b29c30a0}
+}
+
+@ARTICLE{Brun1997,
+  author = {Brun, Rene and Rademakers, Fons},
+  title = {{ROOT} -- An object oriented data analysis framework},
+  journal = {Nucl. Instrum. Methods Phys. Res., Sect. A},
+  year = {1997},
+  volume = {389},
+  pages = {81--86},
+  number = {1-2},
+  month = apr,
+  abstract = {The ROOT system in an Object Oriented framework for large scale data
+	analysis. ROOT written in C++, contains, among others, an efficient
+	hierarchical OO database, a C++ interpreter, advanced statistical
+	analysis (multi-dimensional histogramming, fitting, minimization,
+	cluster finding algorithms) and visualization tools. The user interacts
+	with ROOT via a graphical user interface, the command line or batch
+	scripts. The command and scripting language is C++ (using the interpreter)
+	and large scripts can be compiled and dynamically linked in. The
+	OO database design has been optimized for parallel access (reading
+	as well as writing) by multiple processes.},
+  booktitle = {New Computing Techniques in Physics Research V},
+  owner = {speckmay},
+  timestamp = {2008.02.27},
+  url = {http://www.sciencedirect.com/science/article/B6TJM-3SPKX96-1F/2/3aa2b2cb72c9a4316a842802541bf317}
+}
+
+@ARTICLE{Carli2002,
+  author = {Carli, T. and Koblitz, B.},
+  title = {{A multi-variate discrimination technique based on range- searching}},
+  journal = {Nucl. Instrum. Meth.},
+  year = {2003},
+  volume = {A501},
+  pages = {576-588},
+  archiveprefix = {arXiv},
+  doi = {10.1016/S0168-9002(03)00376-0},
+  eprint = {hep-ex/0211019},
+  slaccitation = {%%CITATION = HEP-EX/0211019;%%}
+}
+
+@ARTICLE{Carroll:1979,
+  author = {{Carroll}, A.S and others},
+  title = {Absorption Cross Sections of $\mathrm{\pi^{\pm}}$, $\mathrm{K^{\pm}}$,
+	$\mathrm{p}$ and $\mathrm{\bar{p}}$ on Nuclei between 60 and 280
+	$\mathrm{GeV/c}$},
+  journal = {Phys. Lett.},
+  year = {1979},
+  volume = {80B},
+  pages = {319-322},
+  number = {3},
+  month = {January}
+}
+
+@ARTICLE{Cleland1994,
+  author = {Cleland, W. E. and Stern, E. G.},
+  title = {Signal processing considerations for liquid ionization calorimeters
+	in a high rate environment},
+  journal = {Nucl. Instrum. Methods Phys. Res., Sect. A},
+  year = {1994},
+  volume = {338},
+  pages = {467--497},
+  number = {2-3},
+  month = jan,
+  abstract = {We present the results of a study of the effects of thermal and pileup
+	noise in liquid ionization calorimeters operating in a high luminosity
+	environment. The method of optimal filtering of multiply-sampled
+	signals to obtain timing and amplitude from calorimeter signals is
+	described. This method has some advantages over the traditional method
+	of sampling the peak of a shaped signal, which include a reduced
+	sensitivity to channel-to-channel variations in the pre-filter shaping
+	parameters and good performance over a wide range of operating conditions.
+	Analytic expressions for the variance of amplitude and timing measurements
+	are found through a frequency domain approach. Implications for the
+	choice of pre-filter shaping time, number and position of the samples,
+	and digitization accuracy are discussed.},
+  owner = {Peter},
+  timestamp = {2008.02.24},
+  url = {http://www.sciencedirect.com/science/article/B6TJM-473FMY7-1K3/2/4f5609319aef05d05bde624f68a3bcae}
+}
+
+@ARTICLE{DiGirolamo2005,
+  author = {Di Girolamo, B and Dotti, A and Giangiobbe, V and Johansson, P and
+	Pribyl, L and Volpi, M},
+  title = {Beamline instrumentation in the 2004 combined {ATLAS} testbeam},
+  journal = {CERN},
+  year = {2005},
+  number = {ATL-COM-TECH-2005-001},
+  month = {July},
+  address = {Geneva},
+  institution = {CERN},
+  owner = {speckmay},
+  timestamp = {2007.08.14}
+}
+
+@ARTICLE{Eckhardt1987,
+  author = {Eckhardt, R.},
+  title = {{Stan Ulam, John von Neumann, and the Monte Carlo method}},
+  journal = {Los Alamos Science},
+  year = {1987},
+  volume = {Special Issue (15)},
+  pages = {131--137},
+  owner = {Peter},
+  timestamp = {2007.03.23},
+  url = {http://library.lanl.gov/cgi-bin/getfile?15-13.pdf}
+}
+
+@ARTICLE{PDBookOld,
+  author = {{Eidelman}, S. and others},
+  title = {{Review of Particle Physics}},
+  journal = {{Physics Letters B}},
+  year = {2004},
+  volume = {592},
+  pages = {1+},
+  url = {http://pdg.lbl.gov}
+}
+
+@ARTICLE{Fabjan2003,
+  author = {Fabjan, Christian W. and Gianotti, Fabiola},
+  title = {Calorimetry for particle physics},
+  journal = {Rev. Mod. Phys.},
+  year = {2003},
+  volume = {75},
+  pages = {1243--1286},
+  number = {4},
+  month = {Oct},
+  doi = {10.1103/RevModPhys.75.1243},
+  numpages = {43},
+  publisher = {American Physical Society}
+}
+
+@CONFERENCE{Fasso2003,
+  author = {Fasso', A. and Ferrari, A. and Roesler, S. and Sala, P.R. and Battistoni,
+	G. and Cerutti, F. and Gadioli, E. and Garzelli, M.V. and Ballarini,
+	F. and Ottolenghi, A. and Empl, A. and J. Ranft},
+  title = {The physics models of {FLUKA}: Status and recent development},
+  booktitle = {CHEP-2003-MOMT008},
+  year = {2003},
+  address = {La Jolla, California},
+  month = {24-28 March},
+  eprint = {hep-ph/0306267},
+  journal = {CHEP03, March 24-28, 2003, La Jolla, California},
+  slaccitation = {%%CITATION = HEP-PH/0306267;%%}
+}
+
+@BOOK{Fasso2005,
+  title = {{FLUKA}: A multi-particle transport code (program version 2005)},
+  publisher = {CERN},
+  year = {2005},
+  author = {Ferrari, A and Sala, Paola R and Fasso', A and Ranft, Johannes},
+  address = {Geneva},
+  owner = {Peter},
+  timestamp = {2007.03.26},
+  url = {http://documents.cern.ch/cgi-bin/setlink?base=cernrep&categ=Yellow_Report&id=2005-010}
+}
+
+@TECHREPORT{Fesefeldt1985,
+  author = {Fesefeldt, H. S.},
+  title = {The simulation of hadronic showers : physics and applications},
+  institution = {Aachen RWTH Inst. Phys.},
+  year = {1985},
+  number = {PITHA-85-02},
+  address = {Aachen},
+  month = {Sep}
+}
+
+@CONFERENCE{Fidler2005,
+  author = {Josef Fidler and Peter Speckmayer and Thomas Schrefl and Dieter Suess},
+  title = {Numerical micromagnetics of an assembly of {(Fe,Co)Pt} nanoparticles},
+  year = {2005},
+  volume = {97},
+  number = {10},
+  pages = {10E508},
+  publisher = {AIP},
+  eid = {10E508},
+  journal = {49th Annual Conference on Magnetism and Magnetic Materials},
+  keywords = {platinum alloys; iron alloys; cobalt alloys; ferromagnetic materials;
+	soft magnetic materials; nanoparticles; magnetic particles; micromagnetics;
+	magnetisation reversal; exchange interactions (electron); coercive
+	force; magnetic hysteresis; magnetic anisotropy; remanence; magnetic
+	domain walls; nucleation; finite element analysis; boundary-elements
+	methods},
+  location = {Jacksonville, Florida (USA)},
+  numpages = {3},
+  url = {http://link.aip.org/link/?JAP/97/10E508/1}
+}
+
+@ARTICLE{Fisher1936,
+  author = {Fisher, R. A.},
+  title = {The use of multiple measurements in taxonomic problems},
+  journal = {Annals of Eugenics},
+  year = {1936},
+  volume = {7},
+  pages = {179-188},
+  owner = {speckmay},
+  timestamp = {2008.05.04}
+}
+
+@ARTICLE{Binary2004,
+  author = {Folger, G. and Ivanchenko, V. N. and Wellisch, J. P.},
+  title = {{The Binary Cascade - Nucleon nuclear reactions}},
+  journal = {Eur. Phys. J. A},
+  year = {2004},
+  volume = {21},
+  pages = {407-417},
+  doi = {10.1140/epja/i2003-10219-7},
+  owner = {speckmay},
+  timestamp = {2008.04.16}
+}
+
+@CONFERENCE{Folger2003,
+  author = {Folger, G. and Wellisch, J. P.},
+  title = {String Parton Models in {Geant4}},
+  booktitle = {CHEP-2003-MOMT008},
+  year = {2003},
+  address = {La Jolla, California},
+  month = {24-28 March},
+  journal = {CHEP03, March 24-28, 2003, La Jolla, California},
+  owner = {speckmay},
+  timestamp = {2008.02.19},
+  url = {http://www.slac.stanford.edu/econf/C0303241/proc/papers/MOMT007.PDF}
+}
+
+@TECHREPORT{RuleFit,
+  author = {Friedman, J. and Popescu, B.E.},
+  title = {{Predictive Learning via Rule Ensembles}},
+  institution = {Statistics Department, Stanford University},
+  year = {2005},
+  owner = {speckmay},
+  timestamp = {2008.04.09}
+}
+
+@ARTICLE{Gabriel1994,
+  author = {Gabriel, T. A. and Groom, D. E. and Job, P. K. and Mokhov, N. V.
+	and Stevenson, G. R.},
+  title = {Energy dependence of hadronic activity},
+  journal = {Nucl. Instrum. Methods Phys. Res., Sect. A},
+  year = {1994},
+  volume = {338},
+  pages = {336--347},
+  number = {2-3},
+  month = jan,
+  abstract = {Two features of high-energy hadronic cascades have long been known
+	to shielding specialists: a) in a high-energy hadronic cascade in
+	a given material (incident E [greater-than or equivalent to] 10 GeV),
+	the relative abundance and spectrum of each hadronic species responsible
+	for most of the energy deposition is independent of the energy or
+	species of the incident hadron, and b) because [pi]0 production bleeds
+	off more and more energy into the electromagnetic sector as the energy
+	of the incident hadron increases, the absolute level of this low-energy
+	hadronic activity (E [less, approximate] 1 GeV) rises less rapidly
+	than the incident energy, and in fact rises very nearly as a power
+	of the incident energy. Both features are of great importance in
+	hadron calorimetry, where it is the "universal spectrum" which makes
+	possible the definition of an intrinsic e/h, and the increasing fraction
+	of the energy going into [pi]0's which leads to the energy dependence
+	of e/[pi]. We present evidence for the "universal spectrum," and
+	use an induction argument and simulation results to demonstrate that
+	the low-energy activity ss Em, with 0.80 [less, approximate] m [less,
+	approximate] 0.85. The hadronic activity produced by incident pions
+	is 15-20%% less than that initiated by protons.},
+  owner = {speckmay},
+  timestamp = {2007.04.12},
+  url = {http://www.sciencedirect.com/science/article/B6TJM-473FMY7-1JJ/2/24d8e877c1c74d367cf6e5cee5ad1b4a}
+}
+
+@BOOK{Geant1993,
+  title = {{GEANT} --- Detector Description and Simulation Tool, long writeup
+	{W5013}},
+  publisher = {CERN},
+  year = {1993},
+  author = {Goossens, Michel},
+  series = {CERN Program Library},
+  address = {Geneva},
+  owner = {Peter},
+  timestamp = {2007.03.29}
+}
+
+@ARTICLE{Groom2007,
+  author = {Groom, Donald E.},
+  title = {Energy flow in a hadronic cascade: Application to hadron calorimetry},
+  journal = {Nucl. Instrum. Methods Phys. Res., Sect. A},
+  year = {2007},
+  volume = {572},
+  pages = {633--653},
+  number = {2},
+  month = mar,
+  abstract = {The hadronic cascade description developed in an earlier paper is
+	extended to the response of an idealized fine-sampling hadron calorimeter.
+	Calorimeter response is largely determined by the transfer of energy
+	E[pi]0 from the hadronic to the electromagnetic sector via [pi]0
+	production. Fluctuations in this quantity produce the "constant term"
+	in hadron calorimeter resolution. The increase of its fractional
+	mean, , with increasing incident energy E causes the energy dependence
+	of the [pi]/e ratio in a noncompensating calorimeter. The mean hadronic
+	energy fraction, , was shown to scale very nearly as a power law
+	in E: , where for pions, and m[approximate]0.83. It follows that
+	[pi]/e=1-(1-h/e)(E/E0)m-1, where electromagnetic and hadronic energy
+	deposits are detected with efficiencies e and h, respectively. If
+	the mean fraction of which is deposited as nuclear gamma rays is
+	, then the expression becomes . Fluctuations in these quantities,
+	along with sampling fluctuations, are incorporated to give an overall
+	understanding of resolution, which is different from the usual treatments
+	in interesting ways. The conceptual framework is also extended to
+	the response to jets and the difference between [pi] and p response.},
+  keywords = {Hadron calorimetry, Hadron cascades, Sampling calorimetry},
+  owner = {speckmay},
+  timestamp = {2007.04.12},
+  url = {http://www.sciencedirect.com/science/article/B6TJM-4MR1GTX-2/2/757148c5940f2db642f2782795dcf317}
+}
+
+@ARTICLE{Simonyan2007,
+  author = {Hakobyan, H and Simonyan, M and Carli, T and Henriques-Correia, A
+	M},
+  title = {Measurement of Pion and Proton Longitudinal Shower Profiles up to
+	20 Nuclear Interaction Lengths with the ATLAS Tile Calorimeter},
+  journal = {CERN},
+  year = {2006},
+  number = {ATL-COM-TILECAL-2006-014},
+  month = {Dec},
+  address = {Geneva},
+  institution = {CERN},
+  owner = {speckmay},
+  timestamp = {2008.02.15},
+  url = {http://doc.cern.ch//archive/electronic/cern/others/atlnot/PUB/tilecal/tilecal-pub-2007-008.pdf}
+}
+
+@CONFERENCE{Heikkinen2003,
+  author = {Heikkinen, A. and Stepanov, N. and Wellisch, J. P.},
+  title = {{Bertini intra-nuclear cascade implementation in Geant4}},
+  booktitle = {CHEP-2003-MOMT008},
+  year = {2003},
+  volume = {MOMT008},
+  address = {La Jolla, California},
+  month = {24-28 March},
+  archiveprefix = {arXiv},
+  eprint = {nucl-th/0306008},
+  journal = {Proc. Computing in High Energy and Nuclear Physics},
+  owner = {speckmay},
+  timestamp = {2007.09.21},
+  url = {http://www.slac.stanford.edu/econf/C0303241/proc/papers/MOMT008.PDF}
+}
+
+@ARTICLE{Hoecker2007,
+  author = {A. Hoecker and P. Speckmayer and J. Stelzer and J. Therhaag and E.
+	{von Toerne} and H. Voss and M. Backes and T. Carli and O. Cohen
+	and A. Christov and D. Dannheim and K. Danielowski and S. Henrot-Versille
+	and M. Jachowski and K. Kraszewski and A. {Krasznahorkay Jr} and
+	M. Kruk and Y. Mahalalel and R. Ospanov and X. Prudent and A. Robert
+	and D. Schouten and F. Tegenfeldt and A. Voigt and K. Voss and M.
+	Wolter and A. Zemla},
+  title = {{TMVA - Toolkit for Multivariate Data Analysis}},
+  journal = {POSACAT},
+  year = {2007},
+  volume = {040},
+  doi = {oai:arXiv.org:physics/0703039},
+  url = {http://www.citebase.org/abstract?id=oai:arXiv.org:physics/0703039}
+}
+
+@ARTICLE{Jaffe1929,
+  author = {Jaffe, George},
+  title = {{Zur Theorie der Ionisation in Kolonnen. II}},
+  journal = {Annalen der Physik},
+  year = {1929},
+  volume = {393},
+  pages = {977--1008},
+  number = {7},
+  abstract = {No Abstract.},
+  owner = {speckmay},
+  timestamp = {2008.02.21},
+  url = {http://dx.doi.org/10.1002/andp.19293930706}
+}
+
+@ARTICLE{James1975,
+  author = {James, F and Roos, M},
+  title = {MINUIT-a system for function minimization and analysis of the parameter
+	errors and correlations},
+  journal = {Comput. Phys. Commun.},
+  year = {1975},
+  volume = {10},
+  pages = {343-67},
+  number = {6}
+}
+
+@ARTICLE{Kiryunin:2006,
+  author = {Kiryunin, A.E. and Oberlack, H. and Salihagic, D. and Schacht, P.
+	and Strizenec, P.},
+  title = {GEANT4 physics evaluation with testbeam data of the ATLAS hadronic
+	end-cap calorimeter},
+  journal = {Nucl. Instrum. Methods Phys. Res., Sect. A},
+  year = {2006},
+  volume = {560},
+  pages = {278--290},
+  number = {2},
+  month = {May},
+  doi = {10.1016/j.nima.2005.12.237},
+  numpages = {12},
+  publisher = {Elsevier B.V.}
+}
+
+@TECHREPORT{Kulchitskii2006,
+  author = {Kulchitskii, Yu A and Tsiareshka, P V and Budagov, Yu A and Khubua,
+	J I and Rusakovitch, N A and Vinogradov, V B and Henriques, A and
+	Davidek, T and Tokar, S and Solodkov, A and Vichou, I},
+  title = {Electromagnetic Cell Level Calibration for {ATLAS} {T}ile Calorimeter
+	Modules},
+  institution = {CERN},
+  year = {2006},
+  number = {CERN-ATL-TILECAL-PUB-2007-001},
+  address = {Geneva},
+  month = {Dec},
+  owner = {Peter},
+  timestamp = {2008.03.24}
+}
+
+@BOOK{TileTDR1996,
+  title = {ATLAS tile calorimeterTechnical Design Report},
+  publisher = {CERN},
+  year = {1996},
+  author = {{LHC Experiments Committee}},
+  volume = {CERN-LHCC-96-042},
+  pages = {333},
+  series = {Technical Design Report ATLAS},
+  address = {Geneva},
+  owner = {Peter},
+  timestamp = {2008.04.13}
+}
+
+@BOOK{LHCb1998,
+  title = {LHCb : Technical Proposal},
+  publisher = {CERN},
+  year = {1998},
+  author = {{LHCb Collaboration}},
+  number = {CERN-LHCC-98-004 ; LHCC-P-4},
+  series = {Tech. Proposal},
+  address = {Geneva},
+  owner = {speckmay},
+  timestamp = {2008.03.19},
+  url = {http://cdsweb.cern.ch/record/622031?of=hd}
+}
+
+@ARTICLE{Longo1975,
+  author = {Longo, Egidio and Sestili, Ignazio},
+  title = {Monte Carlo calculation of photon-initiated electromagnetic showers
+	in lead glass},
+  journal = {Nucl. Instrum. Methods Phys. Res., Sect. A},
+  year = {1975},
+  volume = {128},
+  pages = {283--307},
+  number = {2},
+  month = oct,
+  abstract = {We present the results of a Monte Carlo calculation of the longitudinal
+	and lateral development of photon-initiated electron-photon cascades
+	in SF5 lead glass for the following energies of the primary photon:
+	100, 300, 500, 700, 1000, and 5000 MeV. The longitudinal development
+	has been carefully treated and a satisfactory analytical representation
+	is suggested as a convenient tool for many practical problems. The
+	lateral spread has been analyzed and estimated from different points
+	of view. Fluctuations obtained from the Monte Carlo calculation for
+	the track length of showers within 5, 10 and 15X0 of SF5 are presented.
+	They have also been obtained for an array of 9 counters - each 1xX0
+	thick - placed one behind the other. These results have been interpolated
+	rather accurately with a Polya distribution for a convenient set
+	of values of the corresponding parameters.},
+  owner = {speckmay},
+  timestamp = {2008.02.14},
+  url = {http://www.sciencedirect.com/science/article/B73DN-471XW8M-2PP/2/090ef8f3aea3574bcba71c194d98434d}
+}
+
+@ARTICLE{Mauldin1987,
+  author = {Mauldin, R.D.},
+  title = {Probability and nonlinear systems},
+  journal = {Los Alamos Science},
+  year = {1987},
+  volume = {Special Issue (15)},
+  pages = {56--74},
+  owner = {Peter},
+  timestamp = {2007.03.23},
+  url = {http://library.lanl.gov/cgi-bin/getfile?15-07.pdf}
+}
+
+@ARTICLE{Metropolis1987,
+  author = {Metropolis, N.},
+  title = {The beginning of the Monte Carlo method},
+  journal = {Los Alamos Science},
+  year = {1987},
+  volume = {Special Issue (15)},
+  pages = {125--130},
+  owner = {Peter},
+  timestamp = {2007.03.23},
+  url = {http://library.lanl.gov/cgi-bin/getfile?00326866.pdf}
+}
+
+@CONFERENCE{Mora2002,
+  author = {Mora de Freitas, P. and Videau H.},
+  title = {Detector Simulation with Mokka/Geant4 : Present and Future},
+  booktitle = {International Workshop on Linear Colliders (LCWS 2002)},
+  year = {2002},
+  address = {JeJu Island, Korea},
+  month = {August},
+  owner = {speckmay},
+  timestamp = {2010.01.14},
+  url = {http://www.google.at/url?sa=t&source=web&ct=res&cd=1&ved=0CAcQFjAA&url=http%3A%2F%2Fpolywww.in2p3.fr%2Fflc%2Fpublication-calice%2Fpublications%2FKorea.ps.gz&rct=j&q=%22detector+simulation+with+mokka+%2F+geant4+present+and+future%22+mora+freitas&ei=xEhPS6LmO83Z-Qa0-fjmCA&usg=AFQjCNH7V3l3AFjODWPfPKnTvlEZCXR0VA}
+}
+
+@ARTICLE{Platt1999,
+  author = {John C. Platt},
+  title = {Fast training of support vector machines using sequential minimal
+	optimization},
+  year = {1999},
+  pages = {185--208},
+  note = {in B.~Scholkopf, C.~Burges and A.~Smola, eds., Advances in Kernel
+	Methods -- Support Vector Learning},
+  address = {Cambridge, MA, USA},
+  book = {Advances in kernel methods: support vector learning},
+  isbn = {0-262-19416-3},
+  publisher = {MIT Press}
+}
+
+@TECHREPORT{RD41993,
+  author = {{RD4 Collaboration}},
+  title = {Final report on the {RD-4} project},
+  institution = {CERN},
+  year = {1993},
+  number = {CERN-DRDC-93-23},
+  address = {Geneva},
+  owner = {speckmay},
+  timestamp = {2008.03.27}
+}
+
+@ARTICLE{Sandler:1990,
+  author = {Sandler, P. H. and others},
+  title = {Hadron-shower penetration depth and muon production by hadrons of
+	40, 70, and 100 GeV},
+  journal = {Phys. Rev. D: Part. Fields},
+  year = {1990},
+  volume = {42},
+  pages = {759--770},
+  number = {3},
+  month = {Aug},
+  doi = {10.1103/PhysRevD.42.759},
+  numpages = {11},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{Scalettar1982,
+  author = {Scalettar, R. T. and Doe, P. J. and Mahler, H. -J. and Chen, H. H.},
+  title = {Critical test of geminate recombination in liquid argon},
+  journal = {Phys. Rev. A: At., Mol., Opt. Phys.},
+  year = {1982},
+  volume = {25},
+  pages = {2419--2422},
+  number = {4},
+  month = {Apr},
+  doi = {10.1103/PhysRevA.25.2419},
+  numpages = {3},
+  owner = {speckmay},
+  publisher = {American Physical Society},
+  timestamp = {2008.02.21}
+}
+
+@ARTICLE{Spanggaard1998,
+  author = {Spanggaard, J.},
+  title = {Delay Wire Chambers -- A Users Guide},
+  journal = {CERN},
+  year = {1998},
+  number = {SL-Note-98-023-BI},
+  owner = {Peter},
+  timestamp = {2007.08.15},
+  url = {http://documents.cern.ch//archive/electronic/cern/others/sl/sl-note-98-023.pdf}
+}
+
+@MISC{Speckmayer2010,
+  author = {Speckmayer, Peter},
+  title = {{Impact of the Choice of Physics List on GEANT4 Simulations of Hadronic
+	Showers in Tungsten}},
+  howpublished = {LCD-Note-2010-002},
+  year = {2010},
+  institution = {CERN},
+  series = {LCD-Note}
+}
+
+@MISC{SpeckmayerGrefe2010,
+  author = {Speckmayer, Peter and Grefe, Christian},
+  title = {Comparison of Performance of Hadronic Tungsten and Steel Sampling
+	Calorimeters},
+  howpublished = {LCD-Note-2010-001},
+  year = {2010},
+  institution = {CERN},
+  owner = {speckmay},
+  series = {LCD-Note},
+  timestamp = {2010.01.15}
+}
+
+@MISC{Geant4HPPhysList,
+  author = {{The {\sc Geant4} collaboration}},
+  title = {{\sc Geant4}, recommended physics lists},
+  howpublished = {Website: \url{http://www.geant4.org/geant4/support/physicsLists/referencePL/useCases.shtml}},
+  month = {01},
+  year = {2009},
+  owner = {speckmay},
+  timestamp = {2009.01.15},
+  url = {http://www.geant4.org/geant4/support/physicsLists/referencePL/useCases.shtml}
+}
+
+@MISC{Geant4HP,
+  author = {{The {\sc Geant4} collaboration}},
+  title = {{\sc Geant4}},
+  howpublished = {Website: \url{http://geant4.cern.ch}},
+  year = {2007},
+  owner = {speckmay},
+  timestamp = {2007.04.17},
+  url = {http://geant4.cern.ch}
+}
+
+@ARTICLE{Thomson:2009rp,
+  author = {Thomson, M. A.},
+  title = {{Particle Flow Calorimetry and the PandoraPFA Algorithm}},
+  journal = {Nucl. Instrum. Meth.},
+  year = {2009},
+  volume = {A611},
+  pages = {25-40},
+  archiveprefix = {arXiv},
+  doi = {10.1016/j.nima.2009.09.009},
+  eprint = {0907.3577},
+  primaryclass = {physics.ins-det},
+  slaccitation = {%%CITATION = 0907.3577;%%}
+}
+
+@BOOK{Laarhoven1987,
+  title = {{Simulated Annealing: Theory and Application}},
+  publisher = {D.~Reidel Publishing},
+  year = {1987},
+  author = {Van Laarhoven, P. J. M.and E.H.L. Aart, E. H. L.},
+  address = {Dordrecht, Holland},
+  owner = {speckmay},
+  timestamp = {2008.05.04}
+}
+
+@ARTICLE{Vuillemin1993,
+  author = {Vuillemin, V. and Cennini, P. and Fabjan, C. W. and Lacarrere, D.
+	and Looten, A. and Moulson, M. and Seidl, W. and Carlson, P. and
+	Klamra, W. and Lindblad, Th. and Lund-Jensen, B.},
+  title = {Characteristics of the charge response to alpha and beta particles
+	in liquid argon doped with ethylene},
+  journal = {Nucl. Instrum. Methods Phys. Res., Sect. A},
+  year = {1993},
+  volume = {327},
+  pages = {44--47},
+  number = {1},
+  month = mar,
+  abstract = {Charge response from [alpha] and [beta] particles has been measured
+	in liquid argon doped with ethylene in various concentrations. At
+	low concentrations, the addition of ethylene improves the collected
+	charge of [alpha] particles through photoionization. A maximum increase
+	is reached around 25 ppm vol. At large concentrations (> 1000 ppm
+	vol.) the signal falls below the response of pure LAr. The amount
+	of charge collected from [beta] particles is mostly unaffected by
+	the dopant. The attenuation length of the UV luminescence from liquid
+	argon is observed to decrease with ethylene concentration.},
+  owner = {speckmay},
+  timestamp = {2008.02.21},
+  url = {http://www.sciencedirect.com/science/article/B6TJM-473F2XK-4J/2/b76a127237b8a76abd96084afd7fd6b5}
+}
+
+@ARTICLE{Wellisch2001,
+  author = {Wellisch, J. P.},
+  title = {{Hadronic shower models in GEANT4 -- the frameworks}},
+  journal = {Comput. Phys. Commun.},
+  year = {2001},
+  volume = {140},
+  pages = {65--75},
+  number = {1-2},
+  month = oct,
+  keywords = {Simulation, Hadronic interactions},
+  owner = {Peter},
+  timestamp = {2007.03.27},
+  url = {http://www.sciencedirect.com/science/article/B6TJ5-4435B2B-9/2/df5ded1dce0744015f823f8d827e2d6b}
+}
+
+@BOOK{Wigmans2000,
+  title = {Calorimetry},
+  publisher = {Oxford University Press},
+  year = {2000},
+  author = {Wigmans, R.}
+}
+
+@MISC{WikiMonteCarlo2007,
+  author = {Wikipedia},
+  title = {Monte Carlo method --- Wikipedia{,} The Free Encyclopedia},
+  howpublished = {\url{http://en.wikipedia.org/w/index.php?title=Monte_Carlo_method&oldid=198804012}},
+  year = {2008},
+  note = {[Online; accessed 31-March-2008]},
+  owner = {Peter},
+  timestamp = {2007.03.23},
+  url = {http://en.wikipedia.org/w/index.php?title=Monte_Carlo_method&oldid=198804012}
+}
+
+@ARTICLE{PDBook,
+  author = {{Yao}, W.-M. and {Amsler}, C. and {Asner}, D. and {Barnett}, R.M.
+	and {Beringer}, J. and {Burchat}, P.R. and {Carone}, C.D. and {Caso},
+	C. and {Dahl}, O. and {D'Ambrosio}, G. and {DeGouvea}, A. and {Doser},
+	M. and {Eidelman}, S. and {Feng}, J.L. and {Gherghetta}, T. and {Goodman},
+	M. and {Grab}, C. and {Groom}, D.E. and {Gurtu}, A. and {Hagiwara},
+	K. and {Hayes}, K.G. and {Hern\'andez-Rey}, J.J. and {Hikasa}, K.
+	and {Jawahery}, H. and {Kolda}, C. and {Kwon} Y. and {Mangano}, M.L.
+	and {Manohar}, A.V. and {Masoni}, A. and {Miquel}, R. and {M\"onig},
+	K. and {Murayama}, H. and {Nakamura}, K. and {Navas}, S. and {Olive},
+	K.A. and {Pape}, L. and {Patrignani}, C. and {Piepke}, A. and {Punzi},
+	G. and {Raffelt}, G. and {Smith}, J.G. and {Tanabashi}, M. and {Terning},
+	J. and {T\"ornqvist}, N.A. and {Trippe}, T.G. and {Vogel}, P. and
+	{Watari}, T. and {Wohl}, C.G. and {Workman}, R.L. and {Zyla}, P.A.
+	and {Armstrong}, B. and {Harper}, G. and {Lugovsky}, V.S. and {Schaffner},
+	P. and {Artuso}, M. and {Babu}, K.S. and {Band}, H.R. and {Barberio},
+	E. and {Battaglia}, M. and {Bichsel}, H. and {Biebel}, O. and {Bloch},
+	P. and {Blucher}, E. and {Cahn}, R.N. and {Casper}, D. and {Cattai},
+	A. and {Ceccucci}, A. and {Chakraborty}, D. and {Chivukula}, R.S.
+	and {Cowan}, G. and {Damour}, T. and {DeGrand}, T. and {Desler},
+	K. and {Dobbs}, M.A. and {Drees}, M. and {Edwards}, A. and {Edwards},
+	D.A. and {Elvira}, V.D. and {Erler}, J. and {Ezhela}, V.V. and {Fetscher},
+	W. and {Fields}, B.D. and {Foster}, B. and {Froidevaux}, D. and {Gaisser},
+	T.K. and {Garren}, L. and {Gerber}, H.-J. and {Gerbier}, G. and {Gibbons},
+	L. and {Gilman}, F.J. and {Giudice}, G.F. and {Gritsan}, A.V. and
+	{Gr\"unewald}, M. and {Haber}, H.E. and {Hagmann}, C. and {Hinchliffe},
+	I. and {H\"ocker}, A. and {Igo-Kemenes}, P. and {Jackson}, J.D. and
+	{Johnson}, K.F. and {Karlen}, D. and {Kayser}, B. and {Kirkby}, D.
+	and {Klein}, S.R. and {Kleinknecht}, K. and {Knowles}, I.G. and {Kowalewski},
+	R.V. and {Kreitz}, P. and {Krusche}, B. and {Kuyanov}, Yu.V. and
+	{Lahav}, O. and {Langacker}, P. and {Liddle}, A. and {Ligeti}, Z.
+	and {Liss}, T.M. and {Littenberg}, L. and {Liu}, L. and {Lugovsky},
+	K.S. and {Lugovsky}, S.B. and {Mannel}, T. and {Manley}, D.M. and
+	{Marciano}, W.J. and {Martin}, A.D. and {Milstead}, D. and {Narain},
+	M. and {Nason}, P. and {Nir}, Y. and {Peacock}, J.A. and {Prell},
+	S.A. and {Quadt}, A. and {Raby}, S. and {Ratcliff}, B.N. and {Razuvaev},
+	E.A. and {Renk}, B. and {Richardson}, P. and {Roesler}, S. and {Rolandi},
+	G. and {Ronan}, M.T. and {Rosenberg}, L.J. and {Sachrajda}, C.T.
+	and {Sarkar}, S. and {Schmitt}, M. and {Schneider}, O. and {Scott},
+	D. and {Sj\"ostrand}, T. and {Smoot}, G.F. and {Sokolsky}, P. and
+	{Spanier}, S. and {Spieler}, H. and {Stahl}, A. and {Stanev}, T.
+	and {Streitmatter}, R.E. and {Sumiyoshi}, T. and {Tkachenko}, N.P.
+	and {Trilling}, G.H. and {Valencia}, G. and {van Bibber}, K. and
+	{Vincter}, M.G. and {Ward}, D.R. and {Webber}, B.R. and {Wells},
+	J.D. and {Whalley}, M. and {Wolfenstein}, L. and {Womersley}, J.
+	and {Woody}, C.L. and {Yamamoto}, A. and {Zenin}, O.V. and {Zhang},
+	J. and {Zhu}, R.-Y.},
+  title = {{Review of Particle Physics}},
+  journal = {J. Phys. G: Nucl. Part. Phys.},
+  year = {2006},
+  volume = {33},
+  pages = {1+},
+  number = {1},
+  doi = {10.1088/0954-3899/33/1/001},
+  url = {http://pdg.lbl.gov}
+}
+
+@MISC{compact.xml-homepage,
+  title = {{Compact Detector Description}},
+  howpublished = {Website: \url{http://lcsim.org/software/geomconverter/apidocs/org/lcsim/geometry/compact/package-summary.html}}
+}
+
+@MISC{lcdd-homepage,
+  title = {{Linear Collider Detector Description (LCDD)}},
+  howpublished = {Website: \url{http://lcsim.org/software/lcdd/}}
+}
+
+@MISC{slic-homepage,
+  title = {{Simulator for the Linear Collider (SLIC)}},
+  howpublished = {Website: \url{http://lcsim.org/software/slic/}}
+}
+
+@MISC{H8,
+  title = {{H8 SPS Beam Line User Guide}},
+  howpublished = {URL \url{http://nahandbook.web.cern.ch/nahandbook/default/h8/H8usermanual.pdf}},
+  year = {1996},
+  organization = {CERN},
+  owner = {Peter},
+  timestamp = {2007.08.28},
+  url = {http://nahandbook.web.cern.ch/nahandbook/default/h8/H8usermanual.pdf}
+}
+
+@MISC{McGovern2009,
+  author = {{Ronan McGovern}},
+  title = {{Tungsten HCAL Mechanics}},
+  note = {{Presentation given at the 2009 CALICE Collaboration Meeting, 16-18 Sept 2009, Lyon, France }},
+  howpublished = {EDMS: \url{https://edms.cern.ch/document/1058015/1}}
+}
+
+
+@Article{Acquistapace:1997fm,
+     author    = "Acquistapace, G. and others",
+ collaboration = "CMS",
+     title     = "{CMS, the magnet project: Technical design report}",
+     note     = "CERN-LHCC-97-10"
+}
+
+@Article{Aihara:2009ad,
+     author    = "Aihara, (Ed. ), H. and others",
+     title     = "{SiD Letter of Intent}",
+     year      = "2009",
+     eprint    = "0911.0006",
+     archivePrefix = "arXiv",
+     primaryClass  =  "physics.ins-det",
+     SLACcitation  = "%%CITATION = 0911.0006;%%"
+}
+
+@Article{ILD:2009,
+     author    = "{ILD Concept Group}",
+     title     = "{The International Large Detector Letter of Intent}",
+     year      = "2009",
+     note      = "{DESY-09-087}"
+}
+
+

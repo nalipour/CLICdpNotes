@@ -1,0 +1,56 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {british}
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}
+\contentsline {section}{\numberline {2}Simulation framework}{4}{section.2}
+\contentsline {section}{\numberline {3}Geometries}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}Coordinate system}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}The CDR geometry}{5}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}The \emph {spirals} geometry}{7}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}The \emph {double\_spirals} geometry}{9}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}The \emph {double\_spirals\_v2} geometry}{13}{subsection.3.5}
+\contentsline {section}{\numberline {4}Tracking Performance}{14}{section.4}
+\contentsline {subsection}{\numberline {4.1}The \emph {spirals} geometry}{14}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}The \emph {double\_spirals} geometry}{15}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}The \emph {double\_spirals\_v2} geometry}{16}{subsection.4.3}
+\contentsline {section}{\numberline {5}Flavour-tagging performance}{18}{section.5}
+\contentsline {subsection}{\numberline {5.1}Jet-energy dependence}{18}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Jet-angle dependence}{19}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Comparison of different layouts}{21}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}\emph {spirals} and CDR}{21}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.2}\emph {double\_spirals} and \emph {spirals}}{22}{subsubsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.3}\emph {double\_spirals} and CDR}{26}{subsubsection.5.3.3}
+\contentsline {subsection}{\numberline {5.4}Impact of the material budget}{27}{subsection.5.4}
+\contentsline {section}{\numberline {6}Effect of the flavour-tagging performance on the H$\nu \bar {\nu }$ analysis}{28}{section.6}
+\contentsline {section}{\numberline {7}Conclusions}{29}{section.7}
+\contentsline {section}{\numberline {8}Acknowledgements}{30}{section.8}
+\contentsline {section}{\numberline {A}Flavour tagging and jet-angle dependence for the CDR geometry}{31}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Jets in dijet events at $\sqrt {s}=$1000~GeV}{31}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Jets in dijet events at $\sqrt {s}=$500~GeV}{32}{subsection.A.2}
+\contentsline {subsection}{\numberline {A.3}Jets in dijet events at $\sqrt {s}=$200~GeV}{33}{subsection.A.3}
+\contentsline {subsection}{\numberline {A.4}Jets in dijet events at $\sqrt {s}=$91~GeV}{34}{subsection.A.4}
+\contentsline {section}{\numberline {B}Flavour tagging and jet-angle dependence for the \emph {spirals} geometry}{35}{appendix.B}
+\contentsline {subsection}{\numberline {B.1}Jets in dijet events at $\sqrt {s}=$1000~GeV}{35}{subsection.B.1}
+\contentsline {subsection}{\numberline {B.2}Jets in dijet events at $\sqrt {s}=$500~GeV}{36}{subsection.B.2}
+\contentsline {subsection}{\numberline {B.3}Jets in dijet events at $\sqrt {s}=$200~GeV}{37}{subsection.B.3}
+\contentsline {subsection}{\numberline {B.4}Jets in dijet events at $\sqrt {s}=$91~GeV}{38}{subsection.B.4}
+\contentsline {section}{\numberline {C}Flavour tagging and jet-angle dependence for the \emph {double\_spirals} geometry}{39}{appendix.C}
+\contentsline {subsection}{\numberline {C.1}Jets in dijet events at $\sqrt {s}=$1000~GeV}{39}{subsection.C.1}
+\contentsline {subsection}{\numberline {C.2}Jets in dijet events at $\sqrt {s}=$500~GeV}{40}{subsection.C.2}
+\contentsline {subsection}{\numberline {C.3}Jets in dijet events at $\sqrt {s}=$200~GeV}{41}{subsection.C.3}
+\contentsline {subsection}{\numberline {C.4}Jets in dijet events at $\sqrt {s}=$91~GeV}{42}{subsection.C.4}
+\contentsline {section}{\numberline {D}\emph {spirals} vs. CDR}{43}{appendix.D}
+\contentsline {subsection}{\numberline {D.1}Jets in dijet events at $\sqrt {s}=$1000~GeV}{43}{subsection.D.1}
+\contentsline {subsection}{\numberline {D.2}Jets in dijet events at $\sqrt {s}=$500~GeV}{44}{subsection.D.2}
+\contentsline {subsection}{\numberline {D.3}Jets in dijet events at $\sqrt {s}=$200~GeV}{45}{subsection.D.3}
+\contentsline {subsection}{\numberline {D.4}Jets in dijet events at $\sqrt {s}=$91~GeV}{46}{subsection.D.4}
+\contentsline {section}{\numberline {E}\emph {double\_spirals} vs. CDR}{47}{appendix.E}
+\contentsline {subsection}{\numberline {E.1}Jets in dijet events at $\sqrt {s}=$1000~GeV}{47}{subsection.E.1}
+\contentsline {subsection}{\numberline {E.2}Jets in dijet events at $\sqrt {s}=$500~GeV}{48}{subsection.E.2}
+\contentsline {subsection}{\numberline {E.3}Jets in dijet events at $\sqrt {s}=$200~GeV}{49}{subsection.E.3}
+\contentsline {subsection}{\numberline {E.4}Jets in dijet events at $\sqrt {s}=$91~GeV}{50}{subsection.E.4}
+\contentsline {section}{\numberline {F}\emph {double\_spirals} vs. \emph {spirals}}{51}{appendix.F}
+\contentsline {subsection}{\numberline {F.1}Jets in dijet events at $\sqrt {s}=$1000~GeV}{51}{subsection.F.1}
+\contentsline {subsection}{\numberline {F.2}Jets in dijet events at $\sqrt {s}=$500~GeV}{52}{subsection.F.2}
+\contentsline {subsection}{\numberline {F.3}Jets in dijet events at $\sqrt {s}=$200~GeV}{53}{subsection.F.3}
+\contentsline {subsection}{\numberline {F.4}Jets in dijet events at $\sqrt {s}=$91~GeV}{54}{subsection.F.4}
